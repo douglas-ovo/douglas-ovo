@@ -1,6 +1,6 @@
 ### ⏰👋🥣🎧🎸
->feat: 新功能（feature）
->
+feat: 新功能（feature）
+
 >fix: 修补bug
 >
 >docs: 文档（documentation）
