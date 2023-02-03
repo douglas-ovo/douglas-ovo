@@ -1,8 +1,8 @@
 ### ⏰👋🥣🎧🎸
 feat: 新功能（feature）
 
->fix: 修补bug
->
+fix: 修补bug
+
 >docs: 文档（documentation）
 >
 >style: 格式（不影响代码运行的变动）
